@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0001-two-sum) |
+| [0037-sudoku-solver](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0037-sudoku-solver) |
 | [0064-minimum-path-sum](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0064-minimum-path-sum) |
 | [0213-house-robber-ii](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0213-house-robber-ii) |
 | [0307-range-sum-query-mutable](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0307-range-sum-query-mutable) |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0001-two-sum) |
+| [0037-sudoku-solver](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0037-sudoku-solver) |
 ## Math
 |  |
 | ------- |
@@ -35,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0037-sudoku-solver) |
 | [0064-minimum-path-sum](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0064-minimum-path-sum) |
 ## Linked List
 |  |
@@ -79,4 +82,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0307-range-sum-query-mutable) |
+## Backtracking
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
