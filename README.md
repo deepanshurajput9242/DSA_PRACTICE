@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0007-reverse-integer) |
 | [0062-unique-paths](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0062-unique-paths) |
 | [0279-perfect-squares](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0279-perfect-squares) |
 | [0368-largest-divisible-subset](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0368-largest-divisible-subset) |
