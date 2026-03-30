@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0307-range-sum-query-mutable](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0307-range-sum-query-mutable) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0368-largest-divisible-subset](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0368-largest-divisible-subset) |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/1578-minimum-time-to-make-rope-colorful) |
 ## Hash Table
 |  |
 | ------- |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0213-house-robber-ii) |
 | [0279-perfect-squares](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0279-perfect-squares) |
 | [0368-largest-divisible-subset](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0368-largest-divisible-subset) |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/1578-minimum-time-to-make-rope-colorful) |
 ## Combinatorics
 |  |
 | ------- |
@@ -109,9 +111,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1328-break-a-palindrome](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/1328-break-a-palindrome) |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/1578-minimum-time-to-make-rope-colorful) |
 ## Greedy
 |  |
 | ------- |
 | [0991-broken-calculator](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0991-broken-calculator) |
 | [1328-break-a-palindrome](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/1328-break-a-palindrome) |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/1578-minimum-time-to-make-rope-colorful) |
 <!---LeetCode Topics End-->
