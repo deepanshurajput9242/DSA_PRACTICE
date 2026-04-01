@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0315-count-of-smaller-numbers-after-self](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0368-largest-divisible-subset](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0368-largest-divisible-subset) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/1578-minimum-time-to-make-rope-colorful) |
+| [1833-maximum-ice-cream-bars](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/1833-maximum-ice-cream-bars) |
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/2136-earliest-possible-day-of-full-bloom) |
 ## Hash Table
 |  |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0368-largest-divisible-subset) |
+| [1833-maximum-ice-cream-bars](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/1833-maximum-ice-cream-bars) |
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/2136-earliest-possible-day-of-full-bloom) |
 ## Two Pointers
 |  |
@@ -123,5 +125,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0991-broken-calculator](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0991-broken-calculator) |
 | [1328-break-a-palindrome](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/1328-break-a-palindrome) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/1578-minimum-time-to-make-rope-colorful) |
+| [1833-maximum-ice-cream-bars](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/1833-maximum-ice-cream-bars) |
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/2136-earliest-possible-day-of-full-bloom) |
+## Counting Sort
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
