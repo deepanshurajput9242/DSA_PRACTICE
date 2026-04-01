@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0001-two-sum) |
 | [0037-sudoku-solver](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0037-sudoku-solver) |
+| [0045-jump-game-ii](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0045-jump-game-ii) |
 | [0064-minimum-path-sum](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0064-minimum-path-sum) |
 | [0213-house-robber-ii](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0213-house-robber-ii) |
 | [0287-find-the-duplicate-number](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0287-find-the-duplicate-number) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0045-jump-game-ii) |
 | [0062-unique-paths](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0064-minimum-path-sum) |
 | [0213-house-robber-ii](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0213-house-robber-ii) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0045-jump-game-ii) |
 | [0991-broken-calculator](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0991-broken-calculator) |
 | [1328-break-a-palindrome](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/1328-break-a-palindrome) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/1578-minimum-time-to-make-rope-colorful) |
