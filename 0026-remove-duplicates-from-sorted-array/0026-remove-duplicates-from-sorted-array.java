@@ -1,19 +1,37 @@
 class Solution {
-    public int removeDuplicates(int[] nums) {
-        HashSet<Integer> set=new HashSet<>();
-        int index=0;
-        for(int num:nums){
-            if(!set.contains(num)){
-                set.add(num);
-                nums[index]=num;
-                index++;
+    public int removeDuplicates(int[] arr) {
+        int i=0;
+        for(int j=1;j<arr.length;j++){
+            if(arr[j]!=arr[i]){
+                arr[i+1]=arr[j];
+                i++;
             }
+
         }
-        return index;
+        return i+1;
+   
+   
+   
+   
+   
+   
+   
+   
+   }
 
-    }
 
+ //     HashSet<Integer> set=new HashSet<>();
+    //     int index=0;
+    //     for(int num:nums){
+    //         if(!set.contains(num)){
+    //             set.add(num);
+    //             nums[index]=num;
+    //             index++;
+    //         }
+    //     }
+    //     return index;
 
+    // 
 
 
 
