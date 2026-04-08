@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0045-jump-game-ii) |
 | [0064-minimum-path-sum](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0064-minimum-path-sum) |
 | [0134-gas-station](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0134-gas-station) |
+| [0189-rotate-array](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0189-rotate-array) |
 | [0213-house-robber-ii](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0213-house-robber-ii) |
 | [0287-find-the-duplicate-number](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0287-find-the-duplicate-number) |
 | [0307-range-sum-query-mutable](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0307-range-sum-query-mutable) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0007-reverse-integer) |
 | [0062-unique-paths](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0062-unique-paths) |
+| [0189-rotate-array](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0189-rotate-array) |
 | [0279-perfect-squares](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0279-perfect-squares) |
 | [0368-largest-divisible-subset](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0368-largest-divisible-subset) |
 | [0991-broken-calculator](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0991-broken-calculator) |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0189-rotate-array](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0287-find-the-duplicate-number) |
 ## Bit Manipulation
 |  |
