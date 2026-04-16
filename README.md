@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0045-jump-game-ii) |
 | [0064-minimum-path-sum](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0064-minimum-path-sum) |
 | [0134-gas-station](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0134-gas-station) |
+| [0136-single-number](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0189-rotate-array) |
 | [0213-house-robber-ii](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0213-house-robber-ii) |
 | [0268-missing-number](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0268-missing-number) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0287-find-the-duplicate-number) |
 ## String
