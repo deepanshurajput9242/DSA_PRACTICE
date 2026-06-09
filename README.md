@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0279-perfect-squares) |
 | [0368-largest-divisible-subset](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0368-largest-divisible-subset) |
+| [0412-fizz-buzz](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0412-fizz-buzz) |
 | [0991-broken-calculator](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0991-broken-calculator) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0006-zigzag-conversion) |
 | [0013-roman-to-integer](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0013-roman-to-integer) |
+| [0412-fizz-buzz](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0412-fizz-buzz) |
 | [1328-break-a-palindrome](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/1328-break-a-palindrome) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/1578-minimum-time-to-make-rope-colorful) |
 ## Greedy
@@ -179,4 +181,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0003-longest-substring-without-repeating-characters) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
