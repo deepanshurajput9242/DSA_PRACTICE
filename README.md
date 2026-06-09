@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0279-perfect-squares) |
 | [0368-largest-divisible-subset](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0368-largest-divisible-subset) |
 | [0991-broken-calculator](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0991-broken-calculator) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/2366-minimum-replacements-to-sort-the-array) |
 ## Dynamic Programming
 |  |
