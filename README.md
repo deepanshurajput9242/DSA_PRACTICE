@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0013-roman-to-integer) |
 | [0037-sudoku-solver](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0037-sudoku-solver) |
 | [0268-missing-number](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0268-missing-number) |
 ## Math
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0013-roman-to-integer) |
 | [0062-unique-paths](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0268-missing-number) |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0006-zigzag-conversion) |
+| [0013-roman-to-integer](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0013-roman-to-integer) |
 | [1328-break-a-palindrome](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/1328-break-a-palindrome) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/1578-minimum-time-to-make-rope-colorful) |
 ## Greedy
