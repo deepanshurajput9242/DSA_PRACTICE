@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0287-find-the-duplicate-number) |
+| [0344-reverse-string](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0344-reverse-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0006-zigzag-conversion) |
 | [0013-roman-to-integer](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0013-roman-to-integer) |
+| [0344-reverse-string](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0412-fizz-buzz) |
 | [1328-break-a-palindrome](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/1328-break-a-palindrome) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/1578-minimum-time-to-make-rope-colorful) |
