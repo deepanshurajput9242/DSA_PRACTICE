@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0064-minimum-path-sum) |
 | [0118-pascals-triangle](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0134-gas-station](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0162-find-peak-element) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0064-minimum-path-sum) |
 | [0118-pascals-triangle](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0213-house-robber-ii](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0213-house-robber-ii) |
 | [0279-perfect-squares](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0279-perfect-squares) |
 | [0368-largest-divisible-subset](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0368-largest-divisible-subset) |
