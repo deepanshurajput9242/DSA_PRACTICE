@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0062-unique-paths) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0037-sudoku-solver) |
 ## Sorting
 |  |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0006-zigzag-conversion) |
 | [0013-roman-to-integer](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0013-roman-to-integer) |
+| [0022-generate-parentheses](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0022-generate-parentheses) |
 | [0344-reverse-string](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0412-fizz-buzz) |
 | [1328-break-a-palindrome](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/1328-break-a-palindrome) |
