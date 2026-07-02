@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0189-rotate-array) |
 | [0213-house-robber-ii](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0217-contains-duplicate) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0013-roman-to-integer) |
 | [0037-sudoku-solver](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0037-sudoku-solver) |
+| [0169-majority-element](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0645-set-mismatch) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0191-number-of-1-bits) |
 | [0307-range-sum-query-mutable](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0307-range-sum-query-mutable) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0315-count-of-smaller-numbers-after-self) |
@@ -164,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0016-3sum-closest) |
+| [0169-majority-element](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0268-missing-number) |
 | [0368-largest-divisible-subset](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0368-largest-divisible-subset) |
@@ -221,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0169-majority-element) |
 | [1833-maximum-ice-cream-bars](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/1833-maximum-ice-cream-bars) |
 ## Sliding Window
 |  |
