@@ -1,15 +1,22 @@
 class Solution {
-    public int removeDuplicates(int[] arr) {
-        int i=0;
-        for(int j=1;j<arr.length;j++){
-            if(arr[j]!=arr[i]){
-                arr[i+1]=arr[j];
-                i++;
+    public int removeDuplicates(int[] nums) {
+        
+         int i=0;
+         int j=1;
+         int cnt=1;
+         while(j<nums.length){
+            if(nums[j]==nums[j-1]){
+                j++;
+                continue;
             }
-
-        }
-        return i+1;
-   
+            else if(nums[j]!=nums[j-1]){
+                nums[i+1]=nums[j];
+                i++;
+                j++;
+                cnt++;
+            }
+         }
+         return cnt;
    
    
    
@@ -19,20 +26,8 @@ class Solution {
    
    }
 
-
- //     HashSet<Integer> set=new HashSet<>();
-    //     int index=0;
-    //     for(int num:nums){
-    //         if(!set.contains(num)){
-    //             set.add(num);
-    //             nums[index]=num;
-    //             index++;
-    //         }
-    //     }
-    //     return index;
-
-    // 
-
+}
+ 
 
 
 
@@ -84,4 +79,4 @@ class Solution {
     // return i+1; 
     // }
    
-}
+ 
