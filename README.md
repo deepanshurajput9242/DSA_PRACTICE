@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0189-rotate-array) |
 | [0213-house-robber-ii](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0213-house-robber-ii) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0035-search-insert-position) |
 | [0162-find-peak-element](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0287-find-the-duplicate-number) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0315-count-of-smaller-numbers-after-self) |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0344-reverse-string) |
