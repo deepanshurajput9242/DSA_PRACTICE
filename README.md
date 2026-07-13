@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/2136-earliest-possible-day-of-full-bloom) |
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/2366-minimum-replacements-to-sort-the-array) |
+| [2574-left-and-right-sum-differences](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/2574-left-and-right-sum-differences) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3838-weighted-word-mapping](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/3838-weighted-word-mapping) |
 ## Hash Table
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/1480-running-sum-of-1d-array) |
+| [2574-left-and-right-sum-differences](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/2574-left-and-right-sum-differences) |
 ## Graph Theory
 |  |
 | ------- |
