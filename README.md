@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/1833-maximum-ice-cream-bars) |
 | [1920-build-array-from-permutation](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/1929-concatenation-of-array) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/2136-earliest-possible-day-of-full-bloom) |
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/2366-minimum-replacements-to-sort-the-array) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1328-break-a-palindrome](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/1328-break-a-palindrome) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1768-merge-strings-alternately](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/1768-merge-strings-alternately) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Greedy
 |  |
 | ------- |
