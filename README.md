@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0875-koko-eating-bananas) |
 | [0977-squares-of-a-sorted-array](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0977-squares-of-a-sorted-array) |
 | [1122-relative-sort-array](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/1122-relative-sort-array) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1470-shuffle-the-array](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/1480-running-sum-of-1d-array) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0643-maximum-average-subarray-i) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/2269-find-the-k-beauty-of-a-number) |
 ## Simulation
