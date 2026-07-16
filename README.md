@@ -249,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0412-fizz-buzz) |
 | [1328-break-a-palindrome](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/1328-break-a-palindrome) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1768-merge-strings-alternately](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/1768-merge-strings-alternately) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0643-maximum-average-subarray-i) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/2269-find-the-k-beauty-of-a-number) |
 ## Simulation
 |  |
