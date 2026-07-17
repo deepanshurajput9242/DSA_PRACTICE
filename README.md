@@ -239,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0342-power-of-four) |
 | [0645-set-mismatch](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0645-set-mismatch) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0868-binary-gap](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0868-binary-gap) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## String
