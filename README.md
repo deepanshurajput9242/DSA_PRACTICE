@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0342-power-of-four) |
 | [0368-largest-divisible-subset](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0368-largest-divisible-subset) |
 | [0412-fizz-buzz](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0412-fizz-buzz) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0991-broken-calculator](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0991-broken-calculator) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0342-power-of-four) |
 | [0645-set-mismatch](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0645-set-mismatch) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## String
