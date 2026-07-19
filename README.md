@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/2366-minimum-replacements-to-sort-the-array) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## String
 |  |
@@ -311,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0412-fizz-buzz](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0412-fizz-buzz) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1920-build-array-from-permutation](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/1929-concatenation-of-array) |
 | [3838-weighted-word-mapping](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/3838-weighted-word-mapping) |
