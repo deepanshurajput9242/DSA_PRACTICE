@@ -1,0 +1,18 @@
+class Solution {
+    public int concatenatedBinary(int n) {
+        long ans = 0;
+        int mod = 1_000_000_007;
+        int bits = 0;
+
+        for (int i = 1; i <= n; i++) {
+            // Power of 2 par bit length increase hoti hai
+            if ((i & (i - 1)) == 0) {
+                bits++;
+            }
+
+            ans = ((ans << bits) + i) % mod;
+        }
+
+        return (int) ans;
+    }
+}
