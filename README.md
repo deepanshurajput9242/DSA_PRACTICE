@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/2366-minimum-replacements-to-sort-the-array) |
 | [2574-left-and-right-sum-differences](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/2574-left-and-right-sum-differences) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3838-weighted-word-mapping](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/3838-weighted-word-mapping) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0645-set-mismatch](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0645-set-mismatch) |
 | [1122-relative-sort-array](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/1122-relative-sort-array) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 ## Math
 |  |
 | ------- |
@@ -348,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/1291-sequential-digits) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 ## Trie
 |  |
 | ------- |
