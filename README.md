@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3838-weighted-word-mapping](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/3838-weighted-word-mapping) |
 ## Hash Table
 |  |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0645-set-mismatch) |
 | [1122-relative-sort-array](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/1122-relative-sort-array) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Math
 |  |
 | ------- |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0191-number-of-1-bits) |
 | [0307-range-sum-query-mutable](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0307-range-sum-query-mutable) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -196,10 +199,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0307-range-sum-query-mutable) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Merge Sort
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Ordered Set
 |  |
 | ------- |
@@ -312,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-relative-sort-array](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/1122-relative-sort-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1833-maximum-ice-cream-bars](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/1833-maximum-ice-cream-bars) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -339,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/1480-running-sum-of-1d-array) |
 | [2574-left-and-right-sum-differences](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/2574-left-and-right-sum-differences) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/3699-number-of-zigzag-arrays-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Graph Theory
 |  |
 | ------- |
