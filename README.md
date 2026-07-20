@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2269-find-the-k-beauty-of-a-number](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/2366-minimum-replacements-to-sort-the-array) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Dynamic Programming
 |  |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/3699-number-of-zigzag-arrays-i) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Combinatorics
 |  |
 | ------- |
@@ -362,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1291-sequential-digits](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/1291-sequential-digits) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Trie
 |  |
 | ------- |
