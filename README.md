@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0002-add-two-numbers) |
 | [0231-power-of-two](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0342-power-of-four) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1768-merge-strings-alternately](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/1768-merge-strings-alternately) |
@@ -349,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0412-fizz-buzz](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0412-fizz-buzz) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1920-build-array-from-permutation](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/1929-concatenation-of-array) |
