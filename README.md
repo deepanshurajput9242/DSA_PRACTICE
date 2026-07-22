@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2812-find-the-safest-path-in-a-grid](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3838-weighted-word-mapping](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/3838-weighted-word-mapping) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/1331-rank-transform-of-an-array) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Math
 |  |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0875-koko-eating-bananas) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Divide and Conquer
 |  |
@@ -375,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Enumeration
 |  |
@@ -393,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
