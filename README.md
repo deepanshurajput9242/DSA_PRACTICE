@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0013-roman-to-integer) |
 | [0037-sudoku-solver](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0037-sudoku-solver) |
 | [0160-intersection-of-two-linked-lists](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0160-intersection-of-two-linked-lists) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0013-roman-to-integer) |
 | [0062-unique-paths](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0189-rotate-array) |
@@ -300,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0006-zigzag-conversion) |
+| [0012-integer-to-roman](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0013-roman-to-integer) |
 | [0022-generate-parentheses](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0022-generate-parentheses) |
 | [0208-implement-trie-prefix-tree](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0208-implement-trie-prefix-tree) |
