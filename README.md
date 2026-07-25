@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/2366-minimum-replacements-to-sort-the-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/3536-maximum-product-of-two-digits) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -440,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Rolling Hash
 |  |
