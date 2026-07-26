@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0540-single-element-in-a-sorted-array) |
+| [0628-maximum-product-of-three-numbers](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0704-binary-search) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0342-power-of-four) |
 | [0368-largest-divisible-subset](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0368-largest-divisible-subset) |
 | [0412-fizz-buzz](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0412-fizz-buzz) |
+| [0628-maximum-product-of-three-numbers](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0991-broken-calculator](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0991-broken-calculator) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0368-largest-divisible-subset) |
 | [0435-non-overlapping-intervals](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0628-maximum-product-of-three-numbers](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0645-set-mismatch) |
 | [0977-squares-of-a-sorted-array](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0977-squares-of-a-sorted-array) |
 | [1122-relative-sort-array](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/1122-relative-sort-array) |
