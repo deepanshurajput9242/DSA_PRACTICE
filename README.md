@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0287-find-the-duplicate-number) |
 | [0307-range-sum-query-mutable](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0307-range-sum-query-mutable) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0322-coin-change](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0322-coin-change) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0368-largest-divisible-subset](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0368-largest-divisible-subset) |
 | [0435-non-overlapping-intervals](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0435-non-overlapping-intervals) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0213-house-robber-ii](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0213-house-robber-ii) |
 | [0279-perfect-squares](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0279-perfect-squares) |
+| [0322-coin-change](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0322-coin-change) |
 | [0368-largest-divisible-subset](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0368-largest-divisible-subset) |
 | [0435-non-overlapping-intervals](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0435-non-overlapping-intervals) |
 | [0746-min-cost-climbing-stairs](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0746-min-cost-climbing-stairs) |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0279-perfect-squares) |
+| [0322-coin-change](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0322-coin-change) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/2812-find-the-safest-path-in-a-grid) |
