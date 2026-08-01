@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0485-max-consecutive-ones) |
+| [0486-predict-the-winner](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0486-predict-the-winner) |
 | [0540-single-element-in-a-sorted-array](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0643-maximum-average-subarray-i) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0342-power-of-four) |
 | [0368-largest-divisible-subset](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0368-largest-divisible-subset) |
 | [0412-fizz-buzz](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0412-fizz-buzz) |
+| [0486-predict-the-winner](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0991-broken-calculator](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0991-broken-calculator) |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0322-coin-change) |
 | [0368-largest-divisible-subset](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0368-largest-divisible-subset) |
 | [0435-non-overlapping-intervals](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0435-non-overlapping-intervals) |
+| [0486-predict-the-winner](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0486-predict-the-winner) |
 | [0746-min-cost-climbing-stairs](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0746-min-cost-climbing-stairs) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/1578-minimum-time-to-make-rope-colorful) |
@@ -178,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0002-add-two-numbers) |
 | [0231-power-of-two](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0342-power-of-four) |
+| [0486-predict-the-winner](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0486-predict-the-winner) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Breadth-First Search
 |  |
@@ -468,4 +472,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0796-rotate-string) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
