@@ -483,4 +483,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0486-predict-the-winner) |
+## Minimax
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0486-predict-the-winner) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
