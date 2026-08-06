@@ -496,4 +496,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0486-predict-the-winner) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
