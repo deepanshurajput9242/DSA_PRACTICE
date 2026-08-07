@@ -504,4 +504,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1148-article-views-i](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/1148-article-views-i) |
 | [1683-invalid-tweets](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/1757-recyclable-and-low-fat-products) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
