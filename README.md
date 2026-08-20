@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2574-left-and-right-sum-differences](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/2574-left-and-right-sum-differences) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -393,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1920-build-array-from-permutation](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/1929-concatenation-of-array) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3838-weighted-word-mapping](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/3838-weighted-word-mapping) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Prefix Sum
