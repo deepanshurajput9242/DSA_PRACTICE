@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0704-binary-search) |
 | [0746-min-cost-climbing-stairs](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0746-min-cost-climbing-stairs) |
 | [0875-koko-eating-bananas](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0875-koko-eating-bananas) |
+| [0877-stone-game](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0977-squares-of-a-sorted-array) |
 | [1122-relative-sort-array](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/1122-relative-sort-array) |
 | [1288-remove-covered-intervals](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/1288-remove-covered-intervals) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0877-stone-game](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0877-stone-game) |
 | [0991-broken-calculator](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0991-broken-calculator) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0486-predict-the-winner) |
 | [0746-min-cost-climbing-stairs](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0746-min-cost-climbing-stairs) |
+| [0877-stone-game](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0877-stone-game) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1406-stone-game-iii](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/1406-stone-game-iii) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/1578-minimum-time-to-make-rope-colorful) |
@@ -496,16 +499,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/1406-stone-game-iii) |
 ## Minimax
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/1406-stone-game-iii) |
 ## Database
 |  |
