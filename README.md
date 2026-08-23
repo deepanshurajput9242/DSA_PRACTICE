@@ -529,4 +529,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
