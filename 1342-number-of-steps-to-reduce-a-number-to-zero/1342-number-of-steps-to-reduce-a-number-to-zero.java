@@ -4,14 +4,15 @@ class Solution {
         while(num!=0){
         if(num%2==0){
             num=num/2;
-            cnt++;
+           
 
         }
         else if(num%2!=0){
             num--;
-            cnt++;
+         
 
         }
+           cnt++;
         }
         return cnt;
         
