@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0977-squares-of-a-sorted-array) |
 | [1122-relative-sort-array](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/1122-relative-sort-array) |
 | [1288-remove-covered-intervals](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/1288-remove-covered-intervals) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1331-rank-transform-of-an-array](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/1331-rank-transform-of-an-array) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0877-stone-game) |
 | [0991-broken-calculator](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0991-broken-calculator) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1406-stone-game-iii](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/1406-stone-game-iii) |
