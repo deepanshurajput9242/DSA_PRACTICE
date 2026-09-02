@@ -1,14 +1,16 @@
 class Solution {
     public int numIdenticalPairs(int[] nums) {
-        int cnt=0;
-        int [] countArr=new int[101];
+        int finalCnt=0;
+        int[] countArr=new int[101];
         for(int num:nums){
             countArr[num]++;
+
         }
-        for(int count:countArr){
-            count=count*(count-1)/2;
-            cnt+=count;
+        for(int cnt:countArr){
+            cnt=cnt*(cnt-1)/2;
+            finalCnt+=cnt;
         }
-        return cnt;
+        return finalCnt;
+
     }
 }
