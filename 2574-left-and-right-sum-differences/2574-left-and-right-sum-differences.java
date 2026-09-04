@@ -1,21 +1,27 @@
 class Solution {
-   public int[] leftRightDifference(int[] nums) {
-        int n = nums.length;
-        int[] ans = new int[n];
+    public int[] leftRightDifference(int[] nums) {
+        int[] answer=new int[nums.length];
+        int[] leftSum=new int[nums.length];
+        int[] rightSum=new int[nums.length];
+        leftSum[0]=0;
+        rightSum[nums.length-1]=0;
+        int leftSumo=0;
+        int rightSumo=0;
 
-        int totalSum = 0;
-        for (int num : nums) {
-            totalSum += num;
+        for(int i=1;i<nums.length;i++){
+
+            leftSumo+=nums[i-1];
+            leftSum[i]=leftSumo;
+
         }
-
-        int leftSum = 0;
-
-        for (int i = 0; i < n; i++) {
-            int rightSum = totalSum - leftSum - nums[i];
-            ans[i] = Math.abs(leftSum - rightSum);
-            leftSum += nums[i];
+        for(int i=nums.length-2;i>=0;i--){
+            rightSumo+=nums[i+1];
+            rightSum[i]=rightSumo;
         }
-
-        return ans;
+        for(int i=0;i<nums.length;i++){
+            answer[i]=Math.abs(leftSum[i]-rightSum[i]);
+        }
+        return answer;
+        
     }
 }
