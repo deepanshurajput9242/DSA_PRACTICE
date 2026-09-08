@@ -1,51 +1,52 @@
 class Solution {
-    public List<List<Integer>> threeSum(int[] nums) {
-
-        Arrays.sort(nums);
-        List<List<Integer>> list = new ArrayList<>();
-        int n = nums.length;
-
-        for (int i = 0; i < n - 2; i++) {
-
-            // Skip duplicate first elements
-            if (i > 0 && nums[i] == nums[i - 1]) {
-                continue;
-            }
-
-            int left = i + 1;
-            int right = n - 1;
-
-            int target = -nums[i];
-
-            while (left < right) {
-
-                int sum = nums[left] + nums[right];
-
-                if (sum == target) {
-
-                    list.add(Arrays.asList(nums[i], nums[left], nums[right]));
-
-                    left++;
-                    right--;
-
-                    // Skip duplicate left elements
-                    while (left < right && nums[left] == nums[left - 1]) {
-                        left++;
-                    }
-
-                    // Skip duplicate right elements
-                    while (left < right && nums[right] == nums[right + 1]) {
-                        right--;
-                    }
-
-                } else if (sum < target) {
-                    left++;
-                } else {
-                    right--;
-                }
-            }
+   public void twoSum(int f,int[] nums,List<List<Integer>> list ){
+        int i=f+1;
+        int j=nums.length-1;
+        while(i<j){
+        int sum=nums[f]+nums[i]+nums[j];
+        if(sum>0){
+            j--;
         }
+        else if(sum<0){
+            i++;
+        }
+        else{
+            list.add(Arrays.asList(nums[f],nums[i],nums[j]));
+            i++;
+            j--;
+           while(i<j  && nums[i]==nums[i-1]){
+            i++;
+        }
+        while(i<j && nums[j]==nums[j+1]){
+            j--;
+        } 
 
+        }
+       
+        }
+    }
+
+
+
+
+
+
+
+
+    public List<List<Integer>> threeSum(int[] nums) {
+        List<List<Integer>> list=new ArrayList<>();
+        Arrays.sort(nums);
+        for(int f=0;f<nums.length;f++){
+           if(nums[f]>0){break;
+           }
+           if(f==0 ||nums[f]!=nums[f-1]){
+            twoSum(f,nums,list );
+
+
+           }
+        }
         return list;
+
+        
     }
 }
