@@ -1,9 +1,9 @@
 class Solution {
-    public int[] twoSum(int[] numbers, int target) {
+    public int[] twoSum(int[] nums, int target) {
         int i=0;
-        int j=numbers.length-1;
+        int j=nums.length-1;
         while(i<j){
-            int sum=numbers[i]+numbers[j];
+            int sum=nums[i]+nums[j];
             if(sum>target){
                 j--;
             }
