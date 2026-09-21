@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0013-roman-to-integer) |
 | [0037-sudoku-solver](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0037-sudoku-solver) |
 | [0141-linked-list-cycle](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0202-happy-number) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0160-intersection-of-two-linked-lists) |
 | [0876-middle-of-the-linked-list](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0876-middle-of-the-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -330,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -587,5 +590,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
