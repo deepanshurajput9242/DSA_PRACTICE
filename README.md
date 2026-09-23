@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0977-squares-of-a-sorted-array) |
+| [1089-duplicate-zeros](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/1089-duplicate-zeros) |
 | [1122-relative-sort-array](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/1122-relative-sort-array) |
 | [1288-remove-covered-intervals](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/1288-remove-covered-intervals) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -347,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0680-valid-palindrome-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0977-squares-of-a-sorted-array) |
+| [1089-duplicate-zeros](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/1089-duplicate-zeros) |
 | [1768-merge-strings-alternately](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/1768-merge-strings-alternately) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/2486-append-characters-to-string-to-make-subsequence) |
