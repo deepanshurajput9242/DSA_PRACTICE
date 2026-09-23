@@ -3,15 +3,16 @@ class Solution {
      int cnt=0;
 
      for(int num:nums){
-        int sumOfDigit=0;
+      int digit=0;
         while(num>0){
-            int digit=num%10;
-            sumOfDigit+=1;
+            
+           
             num=num/10;
+            digit++;
 
             
         }
-        if(sumOfDigit%2==0){
+        if(digit%2==0){
             cnt++;
         }
      }
