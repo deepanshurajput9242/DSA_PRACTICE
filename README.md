@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1331-rank-transform-of-an-array](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/1331-rank-transform-of-an-array) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1406-stone-game-iii](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/1406-stone-game-iii) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0645-set-mismatch) |
 | [1122-relative-sort-array](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/1122-relative-sort-array) |
 | [1331-rank-transform-of-an-array](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/1331-rank-transform-of-an-array) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1512-number-of-good-pairs](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/1512-number-of-good-pairs) |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0875-koko-eating-bananas) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -312,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-relative-sort-array](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/1122-relative-sort-array) |
 | [1288-remove-covered-intervals](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/1331-rank-transform-of-an-array) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1833-maximum-ice-cream-bars](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/1833-maximum-ice-cream-bars) |
@@ -351,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/1089-duplicate-zeros) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1768-merge-strings-alternately](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/1768-merge-strings-alternately) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/2486-append-characters-to-string-to-make-subsequence) |
