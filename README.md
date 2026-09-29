@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0746-min-cost-climbing-stairs) |
 | [0875-koko-eating-bananas](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0877-stone-game) |
+| [0905-sort-array-by-parity](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0905-sort-array-by-parity) |
 | [0941-valid-mountain-array](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0941-valid-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/1089-duplicate-zeros) |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0645-set-mismatch) |
+| [0905-sort-array-by-parity](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0977-squares-of-a-sorted-array) |
 | [1122-relative-sort-array](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/1122-relative-sort-array) |
 | [1288-remove-covered-intervals](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/1288-remove-covered-intervals) |
@@ -357,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0680-valid-palindrome-ii](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0680-valid-palindrome-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0876-middle-of-the-linked-list) |
+| [0905-sort-array-by-parity](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/1089-duplicate-zeros) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/1346-check-if-n-and-its-double-exist) |
