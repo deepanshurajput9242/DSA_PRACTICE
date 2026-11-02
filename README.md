@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0169-majority-element) |
+| [0187-repeated-dna-sequences](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0187-repeated-dna-sequences) |
 | [0202-happy-number](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0202-happy-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0217-contains-duplicate) |
@@ -376,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0136-single-number) |
+| [0187-repeated-dna-sequences](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0187-repeated-dna-sequences) |
 | [0191-number-of-1-bits](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0268-missing-number) |
@@ -401,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0151-reverse-words-in-a-string) |
+| [0187-repeated-dna-sequences](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0187-repeated-dna-sequences) |
 | [0208-implement-trie-prefix-tree](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0208-implement-trie-prefix-tree) |
 | [0344-reverse-string](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0412-fizz-buzz) |
@@ -454,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0187-repeated-dna-sequences](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0187-repeated-dna-sequences) |
 | [0209-minimum-size-subarray-sum](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0643-maximum-average-subarray-i) |
@@ -555,10 +559,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Rolling Hash
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0187-repeated-dna-sequences) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Hash Function
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0187-repeated-dna-sequences) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## String Matching
 |  |
@@ -621,4 +627,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0287-find-the-duplicate-number) |
+## Z Algorithm
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0187-repeated-dna-sequences) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/deepanshurajput9242/DSA_PRACTICE/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
